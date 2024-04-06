@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm D.D.N.D.K.Samantha</h1>
 <h3 align="center">Faculty of Engineering,Genaral Sir John Kotelawala Defence University</h3>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=HELLO+EVERYONE..&hearts;++;Self-taught+Front-End+Developer,;Engineering+Student,;KDU+Rathmalana,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
