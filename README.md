@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm D.D.N.D.K.Samantha</h1>
 <h3 align="center">Faculty of Engineering,Genaral Sir John Kotelawala Defence University</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=HELLO+EVERYONE..&hearts;++;Self-taught+Front-End+Developer,;Engineering+Student,;KDU+Rathmalana,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 <p align="left"> <a href="https://twitter.com/devindasamantha" target="blank"><img src="https://img.shields.io/twitter/follow/devindasamantha?logo=twitter&style=for-the-badge" alt="devindasamantha" /></a> </p>
 
 ---
